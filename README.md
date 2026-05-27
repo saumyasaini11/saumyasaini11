@@ -1,6 +1,4 @@
 <div align="center">
-  <div align="center">
-  <img src="https://raw.githubusercontent.com/saumyasaini11/saumyasaini11/main/banner.jpg" width="600"/>
   
   # Hi 👋, I'm Saumya Saini
   ### Pre-Final Year Cybersecurity & Digital Forensics Student
