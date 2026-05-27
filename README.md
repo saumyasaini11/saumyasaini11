@@ -5,7 +5,6 @@
 
 - 🔐 Currently exploring **Digital Forensics & Blue Teaming**
 - 🤝 Looking for help with **Incident Response & Security Automation**
-- 💬 Ask me about **network scanning, vulnerability analysis & log investigation**
 - 📫 How to reach me: **saumyasainiji@gmail.com**
 
 ---
