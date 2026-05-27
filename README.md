@@ -1,12 +1,7 @@
 <div align="center">
+  <img src="https://github.com/user-attachments/assets/aad1f4f2-9dca-4b16-a9a6-ebc7b3efed47" width="600"/>
   
   # Hi 👋, I'm Saumya Saini
-  ### Pre-Final Year Cybersecurity & Digital Forensics Student
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=saumyasaini11&label=Profile%20Views&color=0e75b6&style=flat)
-</div>
-  
-  # Hey! I'm Saumya Saini
   ### Pre-Final Year Cybersecurity & Digital Forensics Student
   
   ![Profile Views](https://komarev.com/ghpvc/?username=saumyasaini11&label=Profile%20Views&color=0e75b6&style=flat)
@@ -14,9 +9,10 @@
 
 ---
 
-- 🔐 Currently exploring **Real worl cyber security solutions**
+- 🔐 Currently exploring **Digital Forensics & Blue Teaming**
 - 🤝 Looking for help with **Incident Response & Security Automation**
-- 💬 Ask me about **Python, network security**
+- 💬 Ask me about **network scanning, vulnerability analysis & log investigation**
+- 🎯 Career goal: **SOC Analyst / Cybersecurity Analyst**
 - 📫 Reach me at: **saumyasainiji@gmail.com**
 
 ---
@@ -26,6 +22,10 @@
 <div align="left">
   <a href="https://linkedin.com/in/saumya-saini-5470ba279" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/_.saumyayayaya" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
   <a href="mailto:saumyasainiji@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
@@ -51,5 +51,5 @@
 ---
 
 <div align="center">
-  <i>⭐ "Cybersecurity is not about tools: it's about mindset, analysis, and vigilance."</i>
+  <i>⭐ "Cybersecurity is not about tools — it's about mindset, analysis, and vigilance."</i>
 </div>
