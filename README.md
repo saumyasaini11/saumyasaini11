@@ -1,5 +1,12 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/saumyasaini11/saumyasaini11/main/New_Website_.gif" width="180"/>
+  <div align="center">
+  <img src="https://raw.githubusercontent.com/saumyasaini11/saumyasaini11/main/banner.jpg" width="600"/>
+  
+  # Hi 👋, I'm Saumya Saini
+  ### Pre-Final Year Cybersecurity & Digital Forensics Student
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=saumyasaini11&label=Profile%20Views&color=0e75b6&style=flat)
+</div>
   
   # Hey! I'm Saumya Saini
   ### Pre-Final Year Cybersecurity & Digital Forensics Student
@@ -46,5 +53,5 @@
 ---
 
 <div align="center">
-  <i>⭐ "Cybersecurity is not about tools — it's about mindset, analysis, and vigilance."</i>
+  <i>⭐ "Cybersecurity is not about tools: it's about mindset, analysis, and vigilance."</i>
 </div>
