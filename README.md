@@ -1,7 +1,7 @@
 <p align="center">
 </p>
 
-<h1 align="center">Hi 👋, I'm Saumya Saini</h1>
+<h1 align="center">Hi, I'm Saumya Saini</h1>
 
 - 🔐 Currently exploring **Digital Forensics & Blue Teaming**
 - 🤝 Looking for help with **Incident Response & Security Automation**
